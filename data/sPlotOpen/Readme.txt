@@ -1,0 +1,3 @@
+To fully reproduce analyses from the script ./analysis/07_dispersal_mode_figure.R, users can use the version of sPlotOpen included in this folder. Please note that the script includes a large commented-out section (lines 13-406) that performs data manipulations using the sPlotOpen data. The output of that section in a CSV file ./data/both_mean.csv, which the script loads after. The commented-out section.
+
+In order to run the code in that commented-out section, users will first have to unzip the file sPlotOpen.RData.zip.
